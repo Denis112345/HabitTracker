@@ -45,6 +45,7 @@ http://<host>:<port>/docs
 HabbitTracker/
 ├─ app.py                  # Application Factory
 ├─ config.py               # Flask configuration
+├─ docker-compose.yml               # Docker-compose file for start project
 ├─ modules/
 │  ├─ User/
 │  │  ├─ __init__.py
